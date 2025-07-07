@@ -19,7 +19,7 @@
 ![Dificuldade](https://img.shields.io/badge/Nível-Avançado-blueviolet?style=flat&logo=starship)
 
 ⏳ **Tempo Diário**  
-![Tempo](https://img.shields.io/badge/Compromisso-2h%2Fdia-important?style=flat&logo=clock)
+![Tempo](https://img.shields.io/badge/Compromisso-3h%2Fdia-important?style=flat&logo=clock)
 
 </div>
 
