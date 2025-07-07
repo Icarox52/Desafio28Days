@@ -13,12 +13,10 @@
 </div>
 
 <div align="center">
-
-📊 **Progresso do Desafio**  
-![Progresso](https://progress-bar.dev/0/?title=Início&width=300&color=00ccff)  
+ 
 
 ⭐ **Dificuldade**  
-![Dificuldade](https://img.shields.io/badge/Nível-Intermediário-blueviolet?style=flat&logo=starship)
+![Dificuldade](https://img.shields.io/badge/Nível-Avançado-blueviolet?style=flat&logo=starship)
 
 ⏳ **Tempo Diário**  
 ![Tempo](https://img.shields.io/badge/Compromisso-2h%2Fdia-important?style=flat&logo=clock)
