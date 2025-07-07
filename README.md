@@ -96,8 +96,7 @@
 
 
 
-
-**Feito com ❤️ por [Ícaro Machado]**   
+Feito com ❤️ por **Ícaro Machado**   
 
 <div align="center" style="margin-top: 30px;">
 👉 <strong>Lembre-se:</strong> Cada dia é uma oportunidade para <span style="color: #00ccff;">treinar</span>, <span style="color: #00b894;">revisar</span> e <span style="color: #6c5ce7;">aprimorar</span>! 👈
