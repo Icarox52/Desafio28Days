@@ -1,4 +1,4 @@
-# 🚀 **Desafio 28 Dias de Código Intensivo**  
+# 🚀 **Desafio 28 Dias de Código Intensos**  
 ### 🎯 *Treinar • Revisar • Aprimorar* suas habilidades Full-Stack  
 
 <div align="center" style="border: 2px solid #00ccff; border-radius: 10px; padding: 15px; margin: 20px 0; background: #f8f9fa;">
@@ -9,19 +9,6 @@
 🔄 **TREINAR** - Prática diária com projetos reais  
 📚 **REVISAR** - Consolidação dos fundamentos  
 🚀 **APRIMORAR** - Evolução técnica contínua  
-
-</div>
-
-<div align="center">
-
-📊 **Progresso do Desafio**  
-![Progresso](https://progress-bar.dev/0/?title=Início&width=300&color=00ccff)  
-
-⭐ **Dificuldade**  
-![Dificuldade](https://img.shields.io/badge/Nível-Intermediário-blueviolet?style=flat&logo=starship)
-
-⏳ **Tempo Diário**  
-![Tempo](https://img.shields.io/badge/Compromisso-2h%2Fdia-important?style=flat&logo=clock)
 
 </div>
 
@@ -110,12 +97,6 @@
 </div>
 
 
-<div align="center">
-
-🚀 **Pronto para o desafio?**  
-[![Começar Agora](https://img.shields.io/badge/COMEÇAR_AGORA-00cc44?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/)
-
-</div>
 
 
 **Feito com ❤️ por [Ícaro Machado]**   
