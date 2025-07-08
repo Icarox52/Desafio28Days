@@ -14,6 +14,18 @@
 
 ---
 
+## 📅 **Dias do Desafio**
+
+### 📌 **Dia 1: Kickoff**
+🔗 [Este repositório é o Dia 1](https://github.com/Icarox52/Desafio28Days)  
+🛠️ **Setup Inicial**  
+```bash
+✔️ Criar repositório no GitHub  
+✔️ Configurar ambiente de desenvolvimento  
+✔️ Planejar metas pessoais
+
+---
+
 
 ## 📅 **Dias do Desafio**
 
