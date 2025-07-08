@@ -68,7 +68,6 @@
 ⏳ **Compromisso**  
 ![3h/dia](https://img.shields.io/badge/Dedicacao-3h%2Fdia-important)
 
-Aqui está a stack completa do desafio com os badges organizados e padronizados:
 
 ### 🚀 **Stack Completa do Desafio**
 
