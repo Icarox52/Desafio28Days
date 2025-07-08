@@ -87,5 +87,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+Gostou do projeto? Me siga no GitHub para mais conteúdos incríveis!
+
+[![GitHub Follow](https://img.shields.io/github/followers/Icarox52?label=Follow%20%40Icarox52&style=social)](https://github.com/Icarox52)
+
+---
+
+Desenvolvido com ❤️ por **Icarox52** usando as melhores tecnologias web. 🚀
+
+
 </div>
 
