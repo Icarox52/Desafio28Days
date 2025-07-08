@@ -29,11 +29,14 @@
 🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)  
 🖥️ **Projeto Front-end**  
 
-✔️ 📱 Página 100% responsiva 
-✔️ 👁️ Toggle visualização de senha (JS)
-✔️ ✨ Ícones premium (Hero Icons)
-✔️ ✅ Validação inteligente de inputs
-✔️ 🎨 Design sistemático (Tailwind)
+✅ HTML5  
+✅ Tailwind CSS  
+✅ JavaScript  
+✅ Hero Icons  
+✅ Responsivo  
+✅ Validação  
+✅ Toggle visualização de senha (JS)
+
 
 
 ### 📌 **Dias 3-28: Em Desenvolvimento**
