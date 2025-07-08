@@ -19,33 +19,20 @@
 ### 📌 **Dia 1: Kickoff**
 🔗 [Este repositório é o Dia 1](https://github.com/Icarox52/Desafio28Days)  
 🛠️ **Setup Inicial**  
-```bash
+
 ✔️ Criar repositório no GitHub  
 ✔️ Configurar ambiente de desenvolvimento  
 ✔️ Planejar metas pessoais
 
----
-
-
-## 📅 **Dias do Desafio**
-
-### 📌 **Dia 1: Kickoff**
-🔗 [Este repositório é o Dia 1](https://github.com/Icarox52/Desafio28Days)  
-🛠️ **Setup Inicial**  
-```bash
-✔️ Criar repositório no GitHub  
-✔️ Configurar ambiente de desenvolvimento  
-✔️ Planejar metas pessoais
-```
 
 ### 📌 **Dia 2: Página de Login**
 🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)  
 🖥️ **Projeto Front-end**  
-```bash
+
 ✔️ Criar página de login responsiva
 ✔️ Implementar validação de formulário
 ✔️ Estilizar com CSS moderno
-```
+
 
 ### 📌 **Dias 3-28: Em Desenvolvimento**
 🚧 *Projetos dos próximos dias serão adicionados em breve*  
