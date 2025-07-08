@@ -29,12 +29,11 @@
 🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)  
 🖥️ **Projeto Front-end**  
 
-✔️ Criar página de login responsiva
-✔️ Implementar validação de formulário
-✔️ Estilizar com CSS moderno
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">
+✔️ 📱 Página 100% responsiva 
+✔️ 👁️ Toggle visualização de senha (JS)
+✔️ ✨ Ícones premium (Hero Icons)
+✔️ ✅ Validação inteligente de inputs
+✔️ 🎨 Design sistemático (Tailwind)
 
 
 ### 📌 **Dias 3-28: Em Desenvolvimento**
