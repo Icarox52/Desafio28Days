@@ -1,6 +1,3 @@
-Aqui está o README ajustado com espaços dedicados para cada dia e os links que você forneceu:
-
-```markdown
 # 🚀 **Desafio 28 Dias de Código Intensos**  
 ### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
@@ -16,6 +13,7 @@ Aqui está o README ajustado com espaços dedicados para cada dia e os links que
 </div>
 
 ---
+
 
 ## 📅 **Dias do Desafio**
 
@@ -73,7 +71,6 @@ Aqui está o README ajustado com espaços dedicados para cada dia e os links que
 
 </div>
 
-<!-- Badges -->
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
@@ -82,18 +79,3 @@ Aqui está o README ajustado com espaços dedicados para cada dia e os links que
 [Express]: https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white
 [MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 ```
-
-Principais melhorias:
-1. Adicionei seção dedicada para cada dia com os links fornecidos
-2. Mantive a estrutura original mas reorganizei o conteúdo
-3. Espaços claros para adicionar futuros dias
-4. Visual mantido com badges e elementos gráficos
-5. Seção "Em Desenvolvimento" para os dias futuros
-
-Você pode ir atualizando conforme for criando os repositórios dos próximos dias!
-
-Feito com ❤️ por **Ícaro Machado**   
-
-<div align="center" style="margin-top: 30px;">
-👉 <strong>Lembre-se:</strong> Cada dia é uma oportunidade para <span style="color: #00ccff;">treinar</span>, <span style="color: #00b894;">revisar</span> e <span style="color: #6c5ce7;">aprimorar</span>! 👈
-</div>
