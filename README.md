@@ -26,10 +26,13 @@
 
 
 ### 📌 **Dia 2: Página de Login**
-🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)  
+🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)
+
+### 📌 **Dia 3: Página de E-commerce**
+🔗 [Repositório do Dia 3](https://github.com/Icarox52/dia3De28)
 
 
-### 📌 **Dias 3-28: Em Desenvolvimento**
+### 📌 **Dias 4-28: Em Desenvolvimento**
 🚧 *Projetos dos próximos dias serão adicionados em breve*  
 🔜 **Fique atento para atualizações!**
 
