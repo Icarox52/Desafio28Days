@@ -31,7 +31,7 @@
 ### 📌 **Dia 3: Página de E-commerce**
 🔗 [Repositório do Dia 3](https://github.com/Icarox52/dia3De28)
 
-### 📌 **Dia 4: App de Clima**
+### 📌 **Dia 4: Calculadora React**
 🔗 [Repositório do Dia 4](https://github.com/Icarox52/dia4De28)
 
 
