@@ -31,8 +31,11 @@
 ### 📌 **Dia 3: Página de E-commerce**
 🔗 [Repositório do Dia 3](https://github.com/Icarox52/dia3De28)
 
+### 📌 **Dia 4: App de Clima**
+🔗 [Repositório do Dia 4](https://github.com/Icarox52/dia4De28)
 
-### 📌 **Dias 4-28: Em Desenvolvimento**
+
+### 📌 **Dias 5-28: Em Desenvolvimento**
 🚧 *Projetos dos próximos dias serão adicionados em breve*  
 🔜 **Fique atento para atualizações!**
 
