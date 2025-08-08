@@ -27,6 +27,8 @@
 
 ### 📌 **Dia 2: Página de Login**
 🔗 [Repositório do Dia 2](https://github.com/Icarox52/dia2De28)
+OU
+🔗 [Outro Repositório do Dia 2](https://icarox52.github.io/TreinoLogin/)
 
 ### 📌 **Dia 3: Página de E-commerce**
 🔗 [Repositório do Dia 3](https://github.com/Icarox52/dia3De28)
