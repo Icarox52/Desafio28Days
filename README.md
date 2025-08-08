@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&ection=footer&color=ffffff&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
 
 
-# 🚀 **Desafio 28 Dias de Código Intensos**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=🚀+Desafio+28+Dias+de+Código+Intensos" alt="Typing SVG" />
+</p>
+
+
 ### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
 <div align="center" style="border: 2px solid #00ccff; border-radius: 10px; padding: 15px; margin: 20px 0; background: #f8f9fa;">
