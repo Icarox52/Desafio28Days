@@ -6,9 +6,11 @@
 </p>
 
 
-### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
 <div align="center" style="border: 2px solid #00ccff; border-radius: 10px; padding: 15px; margin: 20px 0; background: #f8f9fa;">
+
+
+### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
 ✨ **IDEIA PRINCIPAL DO DESAFIO** ✨  
 <h3 style="color: #2d3436;">Um mês de imersão total para:</h3>
