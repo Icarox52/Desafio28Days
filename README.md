@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&ection=footer&color=ffffff&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
+
+
 # 🚀 **Desafio 28 Dias de Código Intensos**  
 ### 🎯 *Treinar • Revisar • Aprimorar* minhas habilidades Full-Stack  
 
